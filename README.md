@@ -22,7 +22,7 @@ Selecting the highest quality beers, irrespective of popularity and number of re
 Analyzing the strength of the correlation between beer aroma and overall ratings.
 Selecting the top ten recommended beers.
 
-These questions are further explored in __________________. 
+These questions are further explored in Untitled.ipynb. 
 
 # Untitled.ipynb
 
