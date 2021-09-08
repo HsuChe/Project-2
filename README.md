@@ -15,12 +15,12 @@ However, we have gotten the data set from Kaggle at “https://www.kaggle.com/rd
 
 Seaborn heatmap has used in order to understand the role of each factors such as aroma, taste, appearance, palette and many other factors in determining the overall quality of a beer as follow:
 
-
+![](Image
 
 
 There are thousands of different beer style exists in this data set. For the ease of analyzing the dataset, we considered the top 10 beer brand that have more than 30K reviews to find the beers with top ratings in this dataset as follow:
  
-
+![](sajedehsaremi/Beer%20types%20by%20taste.png)
 
 5.	Architecture Diagram:
 
