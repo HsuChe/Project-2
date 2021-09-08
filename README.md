@@ -14,6 +14,11 @@ Potential Questions:
 
 The purpose of this project is to analyze the data from various types of beers sold to study them based on characteristics such as taste, aroma, appearance, strength, and palate as well as their overall rating. A sample set of 1,048,575 data points, which is contained in the file beer_reviews.csv, was cleaned up and analyzed. In the end, the top five highest-ranking beer styles were selected. 
 
+# Data Source
+This is the dataset originally has disccused in the talk " How to hire and test for data skills: A one-size-fits-all interview kit" from https://conferences.oreilly.com/strata/strata-ny-2017/public/schedule/detail/59542
+
+However, we have gotten the data set from Kaggle at https://www.kaggle.com/rdoume/beerreviews
+
 # Kaggle Dataset Beer Review.ipynb
 
 The goals of this jupyter notebook file are as follows:
