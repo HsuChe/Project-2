@@ -1,6 +1,6 @@
 # Beer Review Analysis
 
-![hero_image.jpg]('Images/hero_image.jpg)
+![hero_image.jpg](Images/hero_image.jpg)
 
 ### Backgroud
 
