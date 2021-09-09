@@ -1,6 +1,6 @@
 # Beer Review Analysis
 
-![hero_image.jpg](Images/hero_image.jpg)
+![hero_image.jpg]('Images/hero_image.jpg)
 
 ### Backgroud
 
@@ -179,9 +179,9 @@ engine.table_names()
 
 Our project dashboard consists of the following technologies:
 
-* Database: SQL
+* Database: PostgreSQL
 * Data Visualization: Python ( Seaborn, Matplotlib)
-* Programming Language: Python (scikit-learn, pandas, numpy)
+* Programming Language: Python (scikit-learn, pandas, numpy, sql-alchemy)
 * IDE tools: Jupyter Notebook
 
 ### Conclusion:
