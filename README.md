@@ -18,19 +18,6 @@ This is the dataset originally has discussed in the talk " How to hire and test 
 However, we have gotten the data set from Kaggle. 
 <a href = 'https://www.kaggle.com/rdoume/beerreviews'>Link</a>
 
-### Visualization Inspiration:
-
-Seaborn heatmap has used in order to understand the role of each factors such as aroma, taste, appearance, palette and many other factors in determining the overall quality of a beer as follow:
-
-![correlation.jpeg](Images/Corelation.jpg)
-
-### Top Performing Beers
-
-There are thousands of different beer style exists in this data set. For the ease of analyzing the dataset, we considered the top 10 beer brand that have more than 30K reviews to find the beers with top ratings in this dataset as follow:
-
-![beer_review.jpeg](Images/Beer_reviews.jpg)
-![beer_types_by_test.png](Images/Beer_types_by_taste.png)
-
 ## The ETL Process
 
 ETL stands for extract, transform, and load which are pillars to generate a good workflow build analysis upon.
@@ -187,3 +174,16 @@ Our project dashboard consists of the following technologies:
 ### Conclusion:
 
 The five most popular beer styles were evaluated by grouping by the data frame by beer style and taking the mean of the aroma and appearance as well as the number of available reviews and maximum value in each category. This data is then organized by the number of ratings for aroma and appearance followed by average value and maximum value for both categories. In doing so, it was found that the most popular beer styles were, in descending order, American IPA, American Double / Imperial IPA, American Pale Ale (APA), Russian Imperial Stout, and American Double / Imperial Stout.
+
+### Visualization Inspiration:
+
+Seaborn heatmap has used in order to understand the role of each factors such as aroma, taste, appearance, palette and many other factors in determining the overall quality of a beer as follow:
+
+![correlation.jpeg](Images/Corelation.jpg)
+
+### Top Performing Beers
+
+There are thousands of different beer style exists in this data set. For the ease of analyzing the dataset, we considered the top 10 beer brand that have more than 30K reviews to find the beers with top ratings in this dataset as follow:
+
+![beer_review.jpeg](Images/Beer_reviews.jpg)
+![beer_types_by_test.png](Images/Beer_types_by_taste.png)
